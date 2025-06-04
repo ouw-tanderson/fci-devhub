@@ -19,11 +19,12 @@ Documentation for custom HTML and CSS used on the DevHub site, including class n
 ### Global Improved Styling
 
 **Description:**  
-Modifies the `<h4>` styling to match other headers for a seamless and appealing structure.
+Modifies the global styling to match other headers for a seamless and appealing structure.
 Modifies the GEO Template hero section subtitle for consistency.
 
 **Usage:**  
 Apply the `.h4sans` class to any heading or element to resize its text content.
+also applies a specific font style to the subtitle in the hero section of the GEO template.
 
 **How to Add:**  
 1. From the Main Dashboard, select **Projects**.
@@ -48,6 +49,19 @@ Apply the `.h4sans` class to any heading or element to resize its text content.
 	font-size: var(--size-fluid-3);
 	}
 
+```
+
+### Image linking in devhub and twig
+**Description:**
+This section provides a method to link images in the DevHub site using Twig syntax, ensuring that images can be dynamically linked to their respective pages or sections via cloud.
+
+
+**Example:**
+`src="${asset_url_prefix}/img/upload/img_9262-1.jpg"`
+
+**Useage**
+```html
+${asset_url_prefix}
 ```
 
 ### Template Changes
