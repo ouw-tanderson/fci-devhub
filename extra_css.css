@@ -27,9 +27,9 @@
 	--grid-column-gap: var(--column-gap, 0px);
 	--grid-row-gap: var(--row-gap, 1.5rem);
 	--grid-gutter-width: 1.75rem;
-	--grid-column-width: calc(8.33333vw - var(--grid-gutter-width)*2/12 - var(--grid-column-gap)*11/12);
-	--grid-max-width-main: calc(var(--breakpoint-max-width) - var(--grid-gutter-width, 0px)*2);
-	--grid-max-width-column: calc((var(--grid-max-width-main) - 11*var(--grid-column-gap))/12);
+	--grid-column-width: calc(8.33333vw - var(--grid-gutter-width) * 2 / 12 - var(--grid-column-gap) * 11 / 12);
+	--grid-max-width-main: calc(var(--breakpoint-max-width) - var(--grid-gutter-width, 0px) * 2);
+	--grid-max-width-column: calc((var(--grid-max-width-main) - 11 * var(--grid-column-gap)) / 12);
 	grid-column-gap: 0;
 	grid-column-gap: var(--grid-column-gap);
 	-moz-column-gap: 0;
@@ -59,7 +59,7 @@
 
 @media screen and (min-width: 1600px) {
 	.htmlcontentarea {
-		--grid-gutter-width: calc((100vw - var(--grid-max-width-main))/2);
-		--grid-max-width-main: calc(var(--breakpoint-min-width) - var(--breakpoint-gap)*2)
+		--grid-gutter-width: calc((100vw - var(--grid-max-width-main)) / 2);
+		--grid-max-width-main: calc(var(--breakpoint-min-width) - var(--breakpoint-gap) * 2)
 		}
 	}
