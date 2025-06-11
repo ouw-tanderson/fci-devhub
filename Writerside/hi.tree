@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="hi"
+                 name="FCI - DevHub"
+                 start-page="Default-topic.md">
+
+    <toc-element topic="How-to.md"/>
+    <toc-element topic="implementations.md">
+        <toc-element topic="implement-homepage.md"/>
+        <toc-element topic="Subtopic-2.md"/>
+    </toc-element>
+    <toc-element topic="Default-topic.md"/>
+</instance-profile>
