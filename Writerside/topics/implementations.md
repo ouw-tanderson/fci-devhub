@@ -1,6 +1,7 @@
 # Implementations
 
 
+## General Notes
 Before implementing floor plans, review all task comments for important notes. Deliverables are no longer auto-approved—location approval is required before implementation.
 
  - Deliverables: Must be reviewed and approved by the client before implementation.
