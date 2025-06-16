@@ -246,6 +246,16 @@ Two styled buttons for use in HTML editors, with predefined links and text.
 
 ---
 
+### Phone Link Short Code
+**Description:**
+This section provides a short code for creating a phone link that can be used in HTML editors.
+
+````html
+<a href="tel:${phone}">${phone}</a>
+````
+
+---
+
 ### One Column List Style
 
 **Description:**  
