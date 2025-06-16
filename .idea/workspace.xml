@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc12625e-30e4-4010-a9ce-01432d2cd60d" name="Changes" comment="add geo page optimization documentation and update README with phone link shortcode">
+    <list default="true" id="bc12625e-30e4-4010-a9ce-01432d2cd60d" name="Changes" comment="refactor geo page optimization documentation for clarity and update site configuration">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/build-docs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/build-docs.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/site.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/site.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/implement-geopage.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/implement-geopage.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,7 +176,7 @@
       <workItem from="1750083042191" duration="173000" />
       <workItem from="1750103359537" duration="736000" />
       <workItem from="1750105953657" duration="1399000" />
-      <workItem from="1750110871504" duration="1710000" />
+      <workItem from="1750110871504" duration="3853000" />
     </task>
     <task id="LOCAL-00001" summary="add initial project configuration files and documentation topics">
       <option name="closed" value="true" />
@@ -235,7 +234,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750103507709</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="refactor geo page optimization documentation for clarity and update site configuration">
+      <option name="closed" value="true" />
+      <created>1750112619199</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1750112619199</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,6 +256,7 @@
     <MESSAGE value="add geo and materials page optimization topics and update site configuration" />
     <MESSAGE value="update workspace configuration for geo and materials page optimization" />
     <MESSAGE value="add geo page optimization documentation and update README with phone link shortcode" />
-    <option name="LAST_COMMIT_MESSAGE" value="add geo page optimization documentation and update README with phone link shortcode" />
+    <MESSAGE value="refactor geo page optimization documentation for clarity and update site configuration" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor geo page optimization documentation for clarity and update site configuration" />
   </component>
 </project>
