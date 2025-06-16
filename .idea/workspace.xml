@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc12625e-30e4-4010-a9ce-01432d2cd60d" name="Changes" comment="refactor geo page optimization documentation for clarity and update site configuration">
+    <list default="true" id="bc12625e-30e4-4010-a9ce-01432d2cd60d" name="Changes" comment="update build documentation workflow and refactor workspace configuration for clarity">
       <change beforePath="$PROJECT_DIR$/.github/workflows/build-docs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/build-docs.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,7 +175,7 @@
       <workItem from="1750083042191" duration="173000" />
       <workItem from="1750103359537" duration="736000" />
       <workItem from="1750105953657" duration="1399000" />
-      <workItem from="1750110871504" duration="3853000" />
+      <workItem from="1750110871504" duration="4701000" />
     </task>
     <task id="LOCAL-00001" summary="add initial project configuration files and documentation topics">
       <option name="closed" value="true" />
@@ -242,7 +241,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750112619199</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="update build documentation workflow and refactor workspace configuration for clarity">
+      <option name="closed" value="true" />
+      <created>1750115190136</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1750115190136</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,6 +264,7 @@
     <MESSAGE value="update workspace configuration for geo and materials page optimization" />
     <MESSAGE value="add geo page optimization documentation and update README with phone link shortcode" />
     <MESSAGE value="refactor geo page optimization documentation for clarity and update site configuration" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor geo page optimization documentation for clarity and update site configuration" />
+    <MESSAGE value="update build documentation workflow and refactor workspace configuration for clarity" />
+    <option name="LAST_COMMIT_MESSAGE" value="update build documentation workflow and refactor workspace configuration for clarity" />
   </component>
 </project>
