@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc12625e-30e4-4010-a9ce-01432d2cd60d" name="Changes" comment="update workspace configuration for geo and materials page optimization">
-      <change afterPath="$PROJECT_DIR$/webHelpFCI2-all.zip" afterDir="false" />
+    <list default="true" id="bc12625e-30e4-4010-a9ce-01432d2cd60d" name="Changes" comment="add geo page optimization documentation and update README with phone link shortcode">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/site.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/site.cfg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Writerside/topics/implement-geopage.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/implement-geopage.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -176,7 +175,9 @@
       <workItem from="1750075835990" duration="1401000" />
       <workItem from="1750079395858" duration="2233000" />
       <workItem from="1750083042191" duration="173000" />
-      <workItem from="1750103359537" duration="134000" />
+      <workItem from="1750103359537" duration="736000" />
+      <workItem from="1750105953657" duration="1399000" />
+      <workItem from="1750110871504" duration="1710000" />
     </task>
     <task id="LOCAL-00001" summary="add initial project configuration files and documentation topics">
       <option name="closed" value="true" />
@@ -226,7 +227,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749849570817</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add geo page optimization documentation and update README with phone link shortcode">
+      <option name="closed" value="true" />
+      <created>1750103507709</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1750103507709</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,6 +248,7 @@
     <MESSAGE value="add build documentation workflow and update instance configuration" />
     <MESSAGE value="add geo and materials page optimization topics and update site configuration" />
     <MESSAGE value="update workspace configuration for geo and materials page optimization" />
-    <option name="LAST_COMMIT_MESSAGE" value="update workspace configuration for geo and materials page optimization" />
+    <MESSAGE value="add geo page optimization documentation and update README with phone link shortcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="add geo page optimization documentation and update README with phone link shortcode" />
   </component>
 </project>
