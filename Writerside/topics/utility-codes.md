@@ -1,8 +1,8 @@
-# CSS Utility Classes
+# CSS Utility Classes 
 
 Pre-defined class names brought over from the original WordPress site for consistency.
 
-### Button Options
+### Button Options {#ut-codes}
 
 **Description:**  
 Two styled buttons for use in HTML editors, with predefined links and text.
