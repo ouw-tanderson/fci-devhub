@@ -4,9 +4,9 @@
 
 <instance-profile id="fci"
                  name="FCI - DevHub"
-                 start-page="How-to.md">
+                 start-page="getting-started.md">
 
-    <toc-element topic="How-to.md"/>
+    <toc-element topic="getting-started.md"/>
     <toc-element topic="implementations.md">
         <toc-element topic="implement-homepage.md"/>
         <toc-element topic="implement-geopage.md"/>

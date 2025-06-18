@@ -1,11 +1,10 @@
-# Implementations
+# Getting Started
 
 
-## General Notes
 Before implementing/optimizing anything, review all task comments for important notes. Deliverables are no longer auto-approved—location approval is required before implementation.
 
-- Deliverables: Must be reviewed and approved by the client before implementation.
-- Important: Do not proceed with any implementation for FCI of Houston Memorial without explicit client approval.
+ - Deliverables: Must be reviewed and approved by the client before implementation.
+ - Important: Do not proceed with any implementation for FCI of Houston Memorial without explicit client approval.
 
 > **Condario Sync tag**
 >

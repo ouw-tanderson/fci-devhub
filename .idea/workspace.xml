@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc12625e-30e4-4010-a9ce-01432d2cd60d" name="Changes" comment="refactor build profiles and documentation; add redirection rules and update utility codes">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/build-docs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/build-docs.yml" afterDir="false" />
+    <list default="true" id="bc12625e-30e4-4010-a9ce-01432d2cd60d" name="Changes" comment="update build configuration and documentation; change instance and docker version">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/site.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/fci.tree" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/fci.tree" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/How-to.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/getting-started.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/implementations.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/implementations.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,31 +120,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;Writerside.Web Archive (fci).executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;development&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/tanderson/code_snippets/fci/Writerside/topics&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
-  },
-  &quot;keyToStringList&quot;: {
-    &quot;stardust.markdown.MarkdownSplitEditorSuppressor:keyList&quot;: [
-      &quot;C:/Users/tanderson/code_snippets/fci/Writerside/topics/implement-homepage.md&quot;,
-      &quot;C:/Users/tanderson/code_snippets/fci/Writerside/topics/utility-codes.md&quot;
-    ]
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Writerside.Web Archive (fci).executor": "Run",
+    "git-widget-placeholder": "development",
+    "last_opened_file_path": "C:/Users/tanderson/code_snippets/fci/Writerside/topics",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\tanderson\code_snippets\fci\Writerside\topics" />
@@ -188,7 +183,8 @@
       <workItem from="1750173148381" duration="1591000" />
       <workItem from="1750176493210" duration="1502000" />
       <workItem from="1750180198356" duration="133000" />
-      <workItem from="1750242587577" duration="150000" />
+      <workItem from="1750242587577" duration="649000" />
+      <workItem from="1750243271749" duration="676000" />
     </task>
     <task id="LOCAL-00001" summary="add initial project configuration files and documentation topics">
       <option name="closed" value="true" />
@@ -278,13 +274,22 @@
       <option name="project" value="LOCAL" />
       <updated>1750176553401</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="update build configuration and documentation; change instance and docker version">
+      <option name="closed" value="true" />
+      <created>1750242890929</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1750242890929</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="add initial project configuration files and documentation topics" />
     <MESSAGE value="started homepage implement guide" />
     <MESSAGE value="add build profile with noindex content and update instance version in configuration" />
@@ -295,6 +300,7 @@
     <MESSAGE value="refactor geo page optimization documentation for clarity and update site configuration" />
     <MESSAGE value="update build documentation workflow and refactor workspace configuration for clarity" />
     <MESSAGE value="refactor build profiles and documentation; add redirection rules and update utility codes" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor build profiles and documentation; add redirection rules and update utility codes" />
+    <MESSAGE value="update build configuration and documentation; change instance and docker version" />
+    <option name="LAST_COMMIT_MESSAGE" value="update build configuration and documentation; change instance and docker version" />
   </component>
 </project>
