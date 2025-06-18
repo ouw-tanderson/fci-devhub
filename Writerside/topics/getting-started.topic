@@ -28,6 +28,7 @@
             <card href="implement-homepage.md" badge="documents" summary="Instructions on implementing and optimizing location homepages.">Location Homepages</card>
             <card href="implement-geopage.md" badge="documents" summary="Instructions on implementing and optimizing location GEO pages.">GEO Pages</card>
             <card href="Materials-Page.md" badge="documents" summary="Instructions on implementing and optimizing material pages">Material Pages</card>
+            <card href="Reviews.md" badge="documents" summary="Tyler's Reviews process for implementations">Reviews</card>
         </primary>
 
         <!--    Add several topics that are less important or are relevant only for advanced/experienced users.    -->

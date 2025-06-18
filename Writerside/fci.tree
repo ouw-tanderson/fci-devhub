@@ -11,6 +11,7 @@
         <toc-element topic="implement-homepage.md"/>
         <toc-element topic="implement-geopage.md"/>
         <toc-element topic="Materials-Page.md"/>
+        <toc-element topic="Reviews.md"/>
     </toc-element>
     <toc-element topic="development.md" hidden="false">
         <toc-element topic="shortcodes.md"/>

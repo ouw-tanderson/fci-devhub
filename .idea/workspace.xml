@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc12625e-30e4-4010-a9ce-01432d2cd60d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/components.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Reviews.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Writerside/fci.tree" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/fci.tree" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Materials-Page.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Materials-Page.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Writerside/topics/getting-started.topic" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/getting-started.topic" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/implement-geopage.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/implement-geopage.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/implement-homepage.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/implement-homepage.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,7 +185,7 @@
       <workItem from="1750180198356" duration="133000" />
       <workItem from="1750242587577" duration="649000" />
       <workItem from="1750243271749" duration="5716000" />
-      <workItem from="1750251767783" duration="7912000" />
+      <workItem from="1750251767783" duration="8724000" />
     </task>
     <task id="LOCAL-00001" summary="add initial project configuration files and documentation topics">
       <option name="closed" value="true" />
@@ -326,7 +323,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750272690294</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="add components.md with header and footer code snippets; update Materials-Page.md, implement-homepage.md, implement-geopage.md to include block and utility snippets; update fci.tree and getting-started.topic to reference components; update workspace.xml">
+      <option name="closed" value="true" />
+      <created>1750275361002</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1750275361002</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -350,6 +355,7 @@
     <MESSAGE value="refactor fci.tree and workspace.xml; update topic visibility and task summaries for clarity" />
     <MESSAGE value="update README.md with new documentation link; modify workspace.xml to reflect recent changes" />
     <MESSAGE value="refactor documentation structure; rename Dev.md and utility-codes.topic, add shortcodes.md, update fci.tree and getting-started.topic for improved clarity and organization" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor documentation structure; rename Dev.md and utility-codes.topic, add shortcodes.md, update fci.tree and getting-started.topic for improved clarity and organization" />
+    <MESSAGE value="add components.md with header and footer code snippets; update Materials-Page.md, implement-homepage.md, implement-geopage.md to include block and utility snippets; update fci.tree and getting-started.topic to reference components; update workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="add components.md with header and footer code snippets; update Materials-Page.md, implement-homepage.md, implement-geopage.md to include block and utility snippets; update fci.tree and getting-started.topic to reference components; update workspace.xml" />
   </component>
 </project>
