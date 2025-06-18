@@ -4,11 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc12625e-30e4-4010-a9ce-01432d2cd60d" name="Changes" comment="update build configuration and documentation; change instance and docker version">
+    <list default="true" id="bc12625e-30e4-4010-a9ce-01432d2cd60d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/getting-started.topic" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Writerside/fci.tree" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/fci.tree" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/How-to.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/getting-started.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/implementations.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/implementations.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Default-topic.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Default-topic.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Dev.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Dev.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Materials-Page.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Materials-Page.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/getting-started.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/utility-codes.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/utility-codes.topic" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,7 +188,7 @@
       <workItem from="1750176493210" duration="1502000" />
       <workItem from="1750180198356" duration="133000" />
       <workItem from="1750242587577" duration="649000" />
-      <workItem from="1750243271749" duration="676000" />
+      <workItem from="1750243271749" duration="4658000" />
     </task>
     <task id="LOCAL-00001" summary="add initial project configuration files and documentation topics">
       <option name="closed" value="true" />
@@ -282,7 +286,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750242890929</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="rename How-to.md to getting-started.md and update references; enhance clarity in implementation guidelines">
+      <option name="closed" value="true" />
+      <created>1750243964574</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1750243964574</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -301,6 +313,7 @@
     <MESSAGE value="update build documentation workflow and refactor workspace configuration for clarity" />
     <MESSAGE value="refactor build profiles and documentation; add redirection rules and update utility codes" />
     <MESSAGE value="update build configuration and documentation; change instance and docker version" />
-    <option name="LAST_COMMIT_MESSAGE" value="update build configuration and documentation; change instance and docker version" />
+    <MESSAGE value="rename How-to.md to getting-started.md and update references; enhance clarity in implementation guidelines" />
+    <option name="LAST_COMMIT_MESSAGE" value="rename How-to.md to getting-started.md and update references; enhance clarity in implementation guidelines" />
   </component>
 </project>

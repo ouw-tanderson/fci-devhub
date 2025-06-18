@@ -3,16 +3,16 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="fci"
-                 name="FCI - DevHub"
-                 start-page="getting-started.md">
+                  name="FCI - DevHub"
+                  start-page="getting-started.topic">
 
-    <toc-element topic="getting-started.md"/>
+    <toc-element topic="getting-started.topic"/>
     <toc-element topic="implementations.md">
         <toc-element topic="implement-homepage.md"/>
         <toc-element topic="implement-geopage.md"/>
         <toc-element topic="Materials-Page.md"/>
     </toc-element>
-    <toc-element topic="Dev.md"/>
-    <toc-element topic="Default-topic.md">
+    <toc-element topic="Dev.md">
+        <toc-element topic="Default-topic.md"/>
     </toc-element>
 </instance-profile>
