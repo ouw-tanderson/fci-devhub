@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc12625e-30e4-4010-a9ce-01432d2cd60d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/shortcodes.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/fci.tree" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/fci.tree" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Default-topic.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Dev.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/development.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Materials-Page.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Materials-Page.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/getting-started.topic" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/getting-started.topic" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/utility-codes.topic" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/utility-codes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webHelpFCI2-all.zip" beforeDir="false" afterPath="$PROJECT_DIR$/webHelpFCI2-all.zip" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,7 +190,7 @@
       <workItem from="1750180198356" duration="133000" />
       <workItem from="1750242587577" duration="649000" />
       <workItem from="1750243271749" duration="5716000" />
-      <workItem from="1750251767783" duration="690000" />
+      <workItem from="1750251767783" duration="6160000" />
     </task>
     <task id="LOCAL-00001" summary="add initial project configuration files and documentation topics">
       <option name="closed" value="true" />
@@ -305,7 +312,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750250023031</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="update README.md with new documentation link; modify workspace.xml to reflect recent changes">
+      <option name="closed" value="true" />
+      <created>1750256040437</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1750256040437</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -327,6 +342,7 @@
     <MESSAGE value="rename How-to.md to getting-started.md and update references; enhance clarity in implementation guidelines" />
     <MESSAGE value="refactor documentation structure and update topic references; enhance clarity and organization" />
     <MESSAGE value="refactor fci.tree and workspace.xml; update topic visibility and task summaries for clarity" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor fci.tree and workspace.xml; update topic visibility and task summaries for clarity" />
+    <MESSAGE value="update README.md with new documentation link; modify workspace.xml to reflect recent changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="update README.md with new documentation link; modify workspace.xml to reflect recent changes" />
   </component>
 </project>
