@@ -1,5 +1,8 @@
 # FCI DevHub HTML & CSS Styling Documentation
 
+### New FCI DevHub Documentation Link
+https://ouw-tanderson.github.io/fci-devhub/getting-started.html
+
 Documentation for custom HTML and CSS used on the DevHub site, including class names, code snippets, and usage instructions for consistent and robust layout and styling.
 
 ## Table of Contents
