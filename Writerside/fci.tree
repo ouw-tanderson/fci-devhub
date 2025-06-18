@@ -15,6 +15,7 @@
     <toc-element topic="development.md" hidden="false">
         <toc-element topic="shortcodes.md"/>
         <toc-element topic="utility-codes.md"/>
+        <toc-element topic="components.md"/>
 
     </toc-element>
 </instance-profile>

@@ -22,5 +22,15 @@
 - Mark the task Implemented by adding to the Implemented board.
 - Person who QAs the page will update the board from Implemented to QA Complete once QA is finished. Board will close the task out. Continue to document with a comment on the task and update status of deliverable in the [Local Strategy Tracker](https://oneupweb.sharepoint.com/:x:/s/client-floorcoveringsinternational/EfKwXOnspC5KvtM0KhJasMEBnPwhZBG3vZKykoTFTr2E-w?e=KhmanZ)
 
-## Code Snippets
+## Block Snippets
 
+<include from="components.md" element-id="header-footer-twig-code"></include>
+<include from="components.md" element-id="header-code"></include>
+<include from="components.md" element-id="footer-code"></include>
+
+## Utility Snippets
+
+<include from="utility-codes.md" element-id="css-utility-classes"></include>
+<include from="utility-codes.md" element-id="button-options"></include>
+<include from="utility-codes.md" element-id="one-column-list-style"></include>
+<include from="utility-codes.md" element-id="two-column-split-layout"></include>

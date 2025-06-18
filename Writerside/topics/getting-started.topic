@@ -33,9 +33,10 @@
         <!--    Add several topics that are less important or are relevant only for advanced/experienced users.    -->
         <secondary>
             <title>Development</title>
-			<card href="development.md" badge="development" summary="With a custom card summary">Overview</card>
-			<card href="shortcodes.md" badge="mixed" summary="With a custom card summary">Shortcodes</card>
-			<card href="utility-codes.md" badge="documents" summary="With a custom card summary">Utility Codes</card>
+			<card href="development.md" badge="development" summary="Overview of the development process thats used in implementations">Overview</card>
+			<card href="shortcodes.md" badge="mixed" summary="Mix data of shortcodes used on Devhub">Shortcodes</card>
+			<card href="utility-codes.md" badge="mixed" summary="Utility HTML and CSS classes used to stylize devhub markup">Utility Codes</card>
+			<card href="components.md" badge="mixed" summary="Custom Components used during implementation process.">Components</card>
         </secondary>
 
         <!--    Optionally add additional cards and links to topics that are not in this section but may be relevant.    -->
