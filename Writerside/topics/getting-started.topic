@@ -38,8 +38,8 @@
 			<card href="shortcodes.md" badge="mixed" summary="Mix data of shortcodes used on Devhub">Shortcodes</card>
 			<card href="utility-codes.md" badge="mixed" summary="Utility HTML and CSS classes used to stylize devhub markup">Utility Codes</card>
 			<card href="components.md" badge="mixed" summary="Custom Components used during implementation process.">Components</card>
-			<card href="components.md" badge="mixed" summary="Custom Global Styling for Devhub">Global Style</card>
-			<card href="components.md" badge="mixed" summary="Custom photo gallery thats more SEO friendly">Custom Gallery</card>
+			<card href="Global-Styles.md" badge="mixed" summary="Custom Global Styling for Devhub">Global Style</card>
+			<card href="Custom-Gallery.md" badge="mixed" summary="Custom photo gallery thats more SEO friendly">Custom Gallery</card>
         </secondary>
 
         <!--    Optionally add additional cards and links to topics that are not in this section but may be relevant.    -->
