@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc12625e-30e4-4010-a9ce-01432d2cd60d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Writerside/images/fcilogo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/cfg/buildprofiles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/cfg/buildprofiles.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/fci.tree" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/fci.tree" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webHelpFCI2-all.zip" beforeDir="false" afterPath="$PROJECT_DIR$/webHelpFCI2-all.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/writerside.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/writerside.cfg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -196,7 +192,7 @@
       <workItem from="1750242587577" duration="649000" />
       <workItem from="1750243271749" duration="5716000" />
       <workItem from="1750251767783" duration="9905000" />
-      <workItem from="1750290154357" duration="7466000" />
+      <workItem from="1750290154357" duration="7730000" />
     </task>
     <task id="LOCAL-00001" summary="add initial project configuration files and documentation topics">
       <option name="closed" value="true" />
@@ -374,7 +370,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750296989106</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="add fcilogo.png and reference as header logo in buildprofiles.xml; update fci.tree with new profile name; update workspace.xml to reflect changes">
+      <option name="closed" value="true" />
+      <created>1750297725888</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1750297725888</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -403,6 +407,7 @@
     <MESSAGE value="update workspace.xml to reflect recent changelist and task history" />
     <MESSAGE value="add Global-Styles.md and Custom-Gallery.md documentation; update fci.tree and getting-started.topic to reference new topics; expand shortcodes.md with image and phone link examples; update workspace.xml" />
     <MESSAGE value="add custom.css with theme and style overrides; update buildprofiles.xml to include custom stylesheet; update workspace.xml to reflect changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="add custom.css with theme and style overrides; update buildprofiles.xml to include custom stylesheet; update workspace.xml to reflect changes" />
+    <MESSAGE value="add fcilogo.png and reference as header logo in buildprofiles.xml; update fci.tree with new profile name; update workspace.xml to reflect changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="add fcilogo.png and reference as header logo in buildprofiles.xml; update fci.tree with new profile name; update workspace.xml to reflect changes" />
   </component>
 </project>
