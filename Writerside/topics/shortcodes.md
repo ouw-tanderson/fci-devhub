@@ -1,7 +1,7 @@
 # Shortcodes
 
 
-## Devhub shortcodes (NOT entire list, just the ones found so far).
+**Devhub shortcodes (NOT entire list, just the ones found so far).**
 
 > **Not an Official List**
 >
@@ -10,9 +10,31 @@
 >
 {style="warning"}
 
+### Image linking in devhub
+**Description:**
+This section provides a method to link images in the DevHub site using Twig syntax, ensuring that images can be dynamically linked to their respective pages or sections via cloud.
+
+
+**Example:**
+`src="${asset_url_prefix}/img/upload/img_9262-1.jpg"`
+
+**Useage**
+```html
+${asset_url_prefix}
+```
+
+### Phone Link
+**Description:**
+This section provides a short code for creating a phone link that can be used in HTML editors.
+
+````html
+<a href="tel:${phone}">${phone}</a>
+````
+
+### MISC Shortcodes
+
 | Shortcode / Macro                  | Value                                                         | Description                                      |
 |------------------------------------|---------------------------------------------------------------|--------------------------------------------------|
-| `${phone}`                         | (604) 770-0866                                                | Business phone number                            |
 | `${city}`                          | North Vancouver                                               | City                                             |
 | `${state}`                         | BC                                                            | Province/State abbreviation                      |
 | `${state_name}`                    | British Columbia                                              | Province/State full name                         |

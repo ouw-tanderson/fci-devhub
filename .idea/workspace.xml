@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc12625e-30e4-4010-a9ce-01432d2cd60d" name="Changes" comment="" />
+    <list default="true" id="bc12625e-30e4-4010-a9ce-01432d2cd60d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Custom-Gallery.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Global-Styles.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/fci.tree" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/fci.tree" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/getting-started.topic" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/getting-started.topic" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/shortcodes.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/shortcodes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webHelpFCI2-all.zip" beforeDir="false" afterPath="$PROJECT_DIR$/webHelpFCI2-all.zip" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -180,7 +188,8 @@
       <workItem from="1750180198356" duration="133000" />
       <workItem from="1750242587577" duration="649000" />
       <workItem from="1750243271749" duration="5716000" />
-      <workItem from="1750251767783" duration="9193000" />
+      <workItem from="1750251767783" duration="9905000" />
+      <workItem from="1750290154357" duration="3447000" />
     </task>
     <task id="LOCAL-00001" summary="add initial project configuration files and documentation topics">
       <option name="closed" value="true" />
@@ -334,7 +343,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750276627198</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="update workspace.xml to reflect recent changelist and task history">
+      <option name="closed" value="true" />
+      <created>1750277145915</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1750277145915</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -360,6 +377,7 @@
     <MESSAGE value="refactor documentation structure; rename Dev.md and utility-codes.topic, add shortcodes.md, update fci.tree and getting-started.topic for improved clarity and organization" />
     <MESSAGE value="add components.md with header and footer code snippets; update Materials-Page.md, implement-homepage.md, implement-geopage.md to include block and utility snippets; update fci.tree and getting-started.topic to reference components; update workspace.xml" />
     <MESSAGE value="add Reviews.md with review process; update fci.tree and getting-started.topic to reference Reviews; update workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Reviews.md with review process; update fci.tree and getting-started.topic to reference Reviews; update workspace.xml" />
+    <MESSAGE value="update workspace.xml to reflect recent changelist and task history" />
+    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml to reflect recent changelist and task history" />
   </component>
 </project>
