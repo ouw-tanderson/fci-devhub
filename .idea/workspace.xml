@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc12625e-30e4-4010-a9ce-01432d2cd60d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/Custom-Gallery.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/Global-Styles.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/cfg/static/custom.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/fci.tree" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/fci.tree" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/getting-started.topic" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/getting-started.topic" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/shortcodes.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/shortcodes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/cfg/buildprofiles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/cfg/buildprofiles.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webHelpFCI2-all.zip" beforeDir="false" afterPath="$PROJECT_DIR$/webHelpFCI2-all.zip" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +17,13 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -133,6 +137,7 @@
     "Writerside.Web Archive (fci).executor": "Run",
     "git-widget-placeholder": "development",
     "last_opened_file_path": "C:/Users/tanderson/code_snippets/fci/Writerside/topics",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -189,7 +194,7 @@
       <workItem from="1750242587577" duration="649000" />
       <workItem from="1750243271749" duration="5716000" />
       <workItem from="1750251767783" duration="9905000" />
-      <workItem from="1750290154357" duration="3447000" />
+      <workItem from="1750290154357" duration="6649000" />
     </task>
     <task id="LOCAL-00001" summary="add initial project configuration files and documentation topics">
       <option name="closed" value="true" />
@@ -351,7 +356,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750277145915</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="add Global-Styles.md and Custom-Gallery.md documentation; update fci.tree and getting-started.topic to reference new topics; expand shortcodes.md with image and phone link examples; update workspace.xml">
+      <option name="closed" value="true" />
+      <created>1750293737173</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1750293737173</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -378,6 +391,7 @@
     <MESSAGE value="add components.md with header and footer code snippets; update Materials-Page.md, implement-homepage.md, implement-geopage.md to include block and utility snippets; update fci.tree and getting-started.topic to reference components; update workspace.xml" />
     <MESSAGE value="add Reviews.md with review process; update fci.tree and getting-started.topic to reference Reviews; update workspace.xml" />
     <MESSAGE value="update workspace.xml to reflect recent changelist and task history" />
-    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml to reflect recent changelist and task history" />
+    <MESSAGE value="add Global-Styles.md and Custom-Gallery.md documentation; update fci.tree and getting-started.topic to reference new topics; expand shortcodes.md with image and phone link examples; update workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Global-Styles.md and Custom-Gallery.md documentation; update fci.tree and getting-started.topic to reference new topics; expand shortcodes.md with image and phone link examples; update workspace.xml" />
   </component>
 </project>

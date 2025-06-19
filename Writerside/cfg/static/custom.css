@@ -1,0 +1,42 @@
+/* set the main background for the light theme to pink */
+:root {
+	--wh-color-bg-main: rgb(255, 255, 255);
+	/*--wh-color-bg-main: rgb(225, 239, 242);*/
+	--app-header: rgba(228, 246, 250, 1) !important;
+	--app-footer: var(--color-brand-navy);
+	--wh-color-accent-substrate-main-text: rgb(28, 41, 74);
+	--color-brand-red: rgb(208, 31, 53);
+	--color-brand-navy: rgb(28, 41, 74);
+	}
+
+body {
+	color: rgb(28, 41, 74);
+	}
+
+h1, h2, h3, h4, h5, h6 {
+	color: rgb(28, 41, 74);
+	font-weight: bold;
+	}
+
+/* make the border for images transparent with a 30px radius */
+.article__img {
+	border-radius: 30px !important;
+	border: none;
+	}
+
+._modeClear_joawza_434._dark_joawza_62 {
+	color: var(--wh-color-accent-substrate-main-text);
+	}
+
+._modeClear_joawza_434._dark_joawza_62:hover {
+	color: var(--color-brand-red);
+	}
+
+.toc-item--selected, .toc-item--selected:hover, .toc-item--theme-light:hover{
+	background-color: var(--color-brand-navy) !important;
+	color: var(--wh-color-bg-main) !important;
+	}
+
+.toc-item--highlighted {
+	}
+
