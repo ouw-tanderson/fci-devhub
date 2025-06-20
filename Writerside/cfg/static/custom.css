@@ -14,7 +14,7 @@ body {
 	}
 
 h1, h2, h3, h4, h5, h6 {
-	color: rgb(28, 41, 74);
+	color: var(--wh-color-accent-substrate-main-text);
 	font-weight: bold;
 	}
 
