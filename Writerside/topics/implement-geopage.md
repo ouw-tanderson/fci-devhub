@@ -1,5 +1,6 @@
-# Geo Page Optimization
+# Geo Page
 
+## New & Optimization GEO Page Implementation Guide
 
 - Edit by clicking the correct page name in the left column, *not* the three dots>Open page editor
 - Make sure the Page name has the ,XX State abbreviation

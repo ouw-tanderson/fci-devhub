@@ -30,6 +30,14 @@ Styled list (ordered or unordered) with spacing and red dashes or numbers.
 
 ```html
 <ul class="list">
+```
+
+```html
+<li class="productFacts__benefit">
+```
+
+```html
+<ul class="list">
   <li class="productFacts__benefit">Great for any surface</li>
   <li class="productFacts__benefit">Available with stain-resistant grout for high-traffic areas</li>
   <li class="productFacts__benefit">Easy to clean</li>

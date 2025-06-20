@@ -1,6 +1,7 @@
-# Materials Page Optimization
+# Materials Page
 
-## New Materials Page
+## New & Optimization Materials Implementation Guide
+This is usually used to create page names such as wood, carpet, tile, etc. This guide provides step-by-step instructions for creating/editing/deleting content on local location materials pages. This guide also provides short codes that can be used in the process for creating a page.
 
 - DO NOT Duplicate another materials page if the location already has one.
 - Create from scratch.

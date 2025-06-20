@@ -1,5 +1,7 @@
-# Home Page Optimization
+# Home Page
 
+
+## New & Optimization Home Page Implementation Guide
 Home page optimization is a crucial part of the Local Marketing Strategy for Floor Coverings International. This guide provides step-by-step instructions for creating/editing/deleting content on local location home pages. This guide also provides short codes that can be used in the process for creating a page. 
 
 ## Getting Started
